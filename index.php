@@ -12,6 +12,10 @@
 
    <h1>Hello World</h1>
    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio assumenda voluptatum tempore totam nam quos quasi, veritatis laudantium fugiat ea nemo. Aspernatur numquam impedit odio optio voluptatem facere ipsam? Temporibus.</p>
+   <ul>
+      <li>satu</li>
+      <li>dua</li>
+   </ul>
 
 </body>
 
